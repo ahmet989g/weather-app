@@ -1,0 +1,3 @@
+.weather-card{display: flex;align-items: center;height: 30vh;}
+.weather-card .card-item{height: 100%;flex: 20%;display: flex;align-items: center;justify-content: center;}
+.weather-card .card-item:not(:last-child){border-right: 1px solid #999;}
